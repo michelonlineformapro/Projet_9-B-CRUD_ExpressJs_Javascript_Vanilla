@@ -1,0 +1,23 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import '../../node_modules/animate.css/animate.css';
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+html,body{
+  font-family: 'Ubuntu', sans-serif;
+  color: #5f5f5f;
+  background-color: #3d4247;
+}
+
+/*les cartes*/
+.card{
+  height: 100%!important;
+}
+
+/*Les formulaires*/
+.ajouter-produit{
+  display: none;
+}
+
+.ajouter-produit-show{
+  display: block;
+}

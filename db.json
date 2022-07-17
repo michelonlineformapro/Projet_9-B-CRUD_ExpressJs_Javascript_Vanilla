@@ -1,0 +1,18 @@
+{
+  "produits": [
+    {
+      "nomProduit": "Livre Python",
+      "descriptionProduit": "Python est un langage de programmation interprété, multi-paradigme et multiplateformes. Il favorise la programmation impérative structurée, fonctionnelle et orientée objet.",
+      "prixProduit": "142.35",
+      "imageProduit": "https://www.dunod.com/sites/default/files/styles/principal_desktop/public/thumbnails/image/9782100804832-001-X.jpeg",
+      "id": 1
+    },
+    {
+      "nomProduit": "Livre JAVA EE",
+      "descriptionProduit": "Java SE Jakarta EE Java ME JavaFX Java Card Jakarta EE, est une spécification pour la plate-forme Java d'Oracle, destinée aux applications d'entreprise.",
+      "prixProduit": "653.52",
+      "imageProduit": "https://images-na.ssl-images-amazon.com/images/I/51vifBnNFzL.jpg",
+      "id": 2
+    }
+  ]
+}
